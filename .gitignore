@@ -1,0 +1,14 @@
+node_modules
+.env
+dist
+build
+.vscode
+coverage
+
+client/node_modules
+server/node_modules
+
+client/dist
+server/dist
+
+.DS_Store
