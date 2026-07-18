@@ -221,17 +221,6 @@ Unlike typical CRUD projects, BUZ includes:
 
 ---
 
-# Deployment
-
-Frontend
-
-https://buz-ai-powered-business-operating.vercel.app
-
-Backend
-
-https://buz-backend-1sp6.onrender.com
-
----
 
 # Future Roadmap
 
@@ -247,6 +236,6 @@ https://buz-backend-1sp6.onrender.com
 
 # Developer
 
-Hiya Sanghvi
+Gurutva Singh
 
 BUZ was built as an end-to-end SaaS platform demonstrating full-stack engineering, system design, secure backend architecture, relational database modeling, and AI integration.
