@@ -6,8 +6,6 @@ BUZ is a full-stack SaaS platform designed to help small and medium businesses m
 
 It combines business management, finance tracking, customer relationship management, inventory control, billing, digital ledger management, analytics, and AI-powered business assistance into one unified operating system.
 
-**Live Application:** https://buz-ai-powered-business-operating.vercel.app
-
 ---
 
 ## Overview
